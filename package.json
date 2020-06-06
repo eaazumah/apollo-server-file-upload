@@ -12,6 +12,6 @@
   "author": "Azumah Ebenezer",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.9.16"
+    "apollo-server": "^2.14.2"
   }
 }
